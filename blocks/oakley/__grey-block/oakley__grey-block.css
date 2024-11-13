@@ -1,0 +1,8 @@
+.oakley__grey-block {
+  background-color: #f2f2f2;
+  position: absolute;
+  z-index: 0;
+  height: 160px;
+  width: 100%;
+  top: -160px;
+}
